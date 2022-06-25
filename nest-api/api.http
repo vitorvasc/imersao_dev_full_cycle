@@ -9,7 +9,7 @@ POST http://localhost:3000/routes
 Content-Type: application/json
 
 {
-    "title": "Minha rota",
+    "title": "Minha rota 2",
     "startPosition": { "lat": 0, "lng": 1 },
     "endPosition": { "lat": 2, "lng": 3 }
 }
